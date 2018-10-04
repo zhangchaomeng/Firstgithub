@@ -16,7 +16,7 @@ public class ChlmOne {
 		double[] sumprices = new double[4]; //总金额
 		
 		// 给订单中的每条数据 默认信息
-		names[0] = "张晴";
+		names[0] = "张孟";
 		dishes[0] = "红烧鱼 2份";
 		times[0] = 12;
 		address[0] = "石家庄";
